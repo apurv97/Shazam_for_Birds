@@ -1,6 +1,6 @@
-# Shazam_for_Birds
+# Shazam for Birds
 # CS 386 Term Project
-## Team 05: Apurv Varshney, Gaurav Ganna & Pratyay Gaikwad
+### Team 05: Apurv Varshney, Gaurav Ganna & Pratyay Gaikwad
 									
 Packages used:<br>
 	1. librosa - for audio processing of wav files and to visualize spectrograms<br>
@@ -37,8 +37,8 @@ example 1:<br>
 	3. expected output of accuracy - [2,4,3,4,4,4,5,4,3,4,4,4,4,5,5,4,5,5]<br>
 	4. max accuracy for this data less than 50%.<br>
 
-example 2:
-	1. Run preprocess.ipynb on wav_files_8bitDepth data.
-	3. Run HMM_TrainingandEvaluation.ipynb next
-	3. expected output of accuracy - [6,6,7,9,8,9,9,9,10,9,9,9,9,9,10,11,9,8]
-	4. max accuracy for this data is 78%.
+example 2:<br>
+	1. Run preprocess.ipynb on wav_files_8bitDepth data.<br>
+	3. Run HMM_TrainingandEvaluation.ipynb next<br>
+	3. expected output of accuracy - [6,6,7,9,8,9,9,9,10,9,9,9,9,9,10,11,9,8]<br>
+	4. max accuracy for this data is 78%.<br>
