@@ -1,5 +1,4 @@
-# Shazam for Birds
-# CS 386 Term Project
+# CS 386 Term Project: Shazam for Birds
 ### Team 05: Apurv Varshney, Gaurav Ganna & Pratyay Gaikwad
 ### [Report](/team-05-project-report.pdf)
 #### Packages used:<br>
