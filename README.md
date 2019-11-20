@@ -1,7 +1,7 @@
 # Shazam for Birds
 # CS 386 Term Project
 ### Team 05: Apurv Varshney, Gaurav Ganna & Pratyay Gaikwad
-									
+### [Report](/team-05-project-report.pdf)
 #### Packages used:<br>
 	1. librosa - for audio processing of wav files and to visualize spectrograms<br>
 	2. pydub - to convert mp3 file3 to lossless wav format<br>
